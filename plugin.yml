@@ -1,7 +1,7 @@
 
 name: PVPWorldTwo
 version: 1.0
-description: 
+description: Overhaul plugin that tranforms Minecraft vanilla survival into a pvp world with capture the flag and team bases.
 author: RossGosling
 
 main: uk.co.cherrygoose.pvpworldtwo.Main
