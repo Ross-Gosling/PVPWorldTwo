@@ -1,0 +1,10 @@
+
+name: PVPWorldTwo
+version: 1.0
+description: 
+author: RossGosling
+
+main: uk.co.cherrygoose.pvpworldtwo.Main
+database: false
+
+commands:
